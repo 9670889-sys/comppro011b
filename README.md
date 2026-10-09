@@ -1,7 +1,9 @@
 # OOP Calculator for Programming 1
 
+!{Calculator}(https://github.com/9670889-sys/comppro011b/blob/main/images/calc01.png?raw=true)
+
 ## Overview
-Numeric calcu
+Numeric calculator
 
 ## Current Status
 Working:
