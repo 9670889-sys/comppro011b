@@ -1,8 +1,8 @@
 # OOP Calculator for Programming 1
 
-!{Calculator}(https://github.com/9670889-sys/comppro011b/blob/main/images/calc01.png?raw=true)
+![Calculator](https://github.com/9670889-sys/comppro011b/blob/main/images/calc01.png?raw=true)
 
-{Link to Sourcecode}(https://github.com/9670889-sys/comppro011b/blob/main/src/Calculator/Calculator.pde)
+[Link to Source code](https://github.com/9670889-sys/comppro011b/blob/main/src/Calculator/Calculator.pde)
 
 ## Overview
 Numeric calculator
